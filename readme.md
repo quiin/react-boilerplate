@@ -7,3 +7,6 @@
 - Foundation
 - Webpack
 - jQuery
+- Karma
+- Expect
+- Mocha
